@@ -11,8 +11,6 @@ Welcome to the Git and GitHub Learning repository! This is a comprehensive guide
 5. [Making Commits and Pushing Changes](03_Commits_Pushes/)
 6. [Advanced Topics](04_Advanced_Topics/)
 7. [Additional Resources](05_Resources/)
-8. [Exercises](06_Exercises/)
-9. [How to Contribute](07_Contributing.md)
 
 ## Getting Started
 
@@ -20,16 +18,12 @@ To get the most out of this learning experience, we recommend you follow the mod
 
 ## Contributing
 
-This repository is open to contributions! If you have suggestions, improvements, or additional exercises, please read our [contribution guidelines](07_Contributing.md) before making a pull request.
+This repository is open to contributions! If you have suggestions, improvements, or additional exercises, please read contact me :- [Send Email](mailto:arunknair2003@gmail.com)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 - Special thanks to the Git and GitHub community for the wealth of resources and documentation.
-- A shoutout to all contributors who have helped make this repository a valuable resource for learning.
 
 Happy Learning!
 
